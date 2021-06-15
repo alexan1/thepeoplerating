@@ -1,7 +1,14 @@
 ﻿@page "/"
+@using thepeoplerating.Components
 
-<h1>Hello, world!</h1>
+<h3>Find person in Wiki</h3>
 
-Welcome to your new app.
+<input @bind="_searchName" />
+<button @onclick="SearchPeople">Search</button>
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+@if (@People != null)
+
+{@foreach (var person in PeopleR)
+{
+    <PersonInfo Person=@person />
+}}
