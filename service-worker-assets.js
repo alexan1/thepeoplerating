@@ -309,7 +309,7 @@
       "url": "_framework\/WikiDataLib.dll"
     },
     {
-      "hash": "sha256-JTK6uc6MnH7lKUzq9YDun\/Kej+5Fujj0srO2gUNQEag=",
+      "hash": "sha256-fMZvNFv0mlgZgXXR0zASSuCFMHvisI6A3Dh7ehAdVKU=",
       "url": "_framework\/thepeoplerating.dll"
     },
     {
@@ -453,7 +453,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-5YMzHtSSegyAGV1KkxirYNF7621uf\/9leGDVE3ujea0=",
+      "hash": "sha256-uQHMlwgrDvA3Re+zaz7nHqRWc+MxAeBPRJrdqb4btN8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -461,5 +461,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "Ip7sDNuq"
+  "version": "aJmSOSJ4"
 };
